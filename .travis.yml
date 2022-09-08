@@ -7,8 +7,8 @@ cache:
   directories:
   - node_modules
 before_install:
-- export GIT_REPO=https://blog.aidengrong.top
-- export CODING_REPO=https://map.aidengrong.top
+- export GIT_REPO=https://$REPO_TOKEN@github.com/sjfkai/mapLocation.git
+- export CODING_REPO=https://$CODING_TOKEN@e.coding.net/sjfkai/mapLocation.git
 install:
 - yarn
 script:
@@ -16,6 +16,6 @@ script:
 notifications:
   email:
     recipients:
-      - aidengrong@aidengrong.top
+      - sjfkai@163.com
     on_success: never
     on_failure: always
