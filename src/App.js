@@ -161,13 +161,13 @@ class App extends Component {
         <Layout>
           <Header className="header">
             <div className="header-logo">
-              <h1>番茄Map</h1>
+              <h1>番茄酱的Map</h1>
               <h3>批量转换地址为经纬度</h3>
             </div>
 
             <div className="header-link">
               <a href="https://blog.aidengrong.top" target="_blank" rel="noopener noreferrer">
-                <Icon type="link" /> 番茄酱blog
+                <Icon type="link" /> 番茄酱的blog
               </a>
             </div>
           </Header>
