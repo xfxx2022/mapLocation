@@ -136,7 +136,6 @@ const baiduTip = (
       <li>标准的结构化地址信息，如北京市海淀区上地十街十号 【推荐，地址结构越完整，解析精度越高】</li>
       <li>支持“*路与*路交叉口”描述方式，如北一环路和阜阳路的交叉路口</li>
       <li>第二种方式并不总是有返回结果，只有当地址库中存在该地址描述时才有返回。</li>
-      <li><a href="http://lbsyun.baidu.com/index.php?title=webapi/guide/webservice-geocoding" target="_blank"  rel="noopener noreferrer">Read more...</a></li>
     </ul>
   </div>
 )
@@ -150,7 +149,6 @@ const googleTip = (
       <li>在场所的街道号和建筑名称之间，尽可能优先使用前者</li>
       <li>在使用街道号地址与指定十字路口之间，尽可能优先使用前者</li>
       <li>请勿提供附近标志性建筑等“提示”</li>
-      <li><a href="https://developers.google.com/maps/faq?#geocoder_queryformat" target="_blank"  rel="noopener noreferrer">Read more...</a></li>
     </ul>
   </div>
 )
