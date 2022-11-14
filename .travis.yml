@@ -16,6 +16,6 @@ script:
 notifications:
   email:
     recipients:
-      - sjfkai@163.com
+      - aidengrong@gmail.com
     on_success: never
     on_failure: always
