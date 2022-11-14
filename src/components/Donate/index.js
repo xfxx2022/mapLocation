@@ -14,7 +14,7 @@ class Donate extends Component {
   render() {
     return (
       <div className="donate">
-        <Popover content={content} title="捐助打赏！" placement="topRight">
+        <Popover content={content} title="参与公益！献一份爱心！" placement="topRight">
         {/* <div className="button"><Icon type="red-envelope" /> 打赏 <Icon type="red-envelope" /> </div> */}
           <div className="button2 button2-animate"></div>
         </Popover>
@@ -37,7 +37,8 @@ const content = (
     </div>
     <br />
     <div className="text">本站完全免费，如果本站为你节约了时间</div>
-    <div className="text">可否请您献出一份的爱心</a>
+    <div className="text">可否请您
+    <a href="https://support.qq.com/products/65049/blog/547026" target="_blank"  rel="noopener noreferrer">献出一份的爱心</a>
     。非常感谢！</div>
   </div>
 );
