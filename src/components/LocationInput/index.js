@@ -92,7 +92,7 @@ class LocationInput extends Component {
                       </div>
                       <div className="radio" >
                         <Radio value="google">
-                          Google
+                          Google（未开放）
                         </Radio>
                         <Popover title="Google地址要求" content={googleTip}>
                           <Icon type="question-circle"/>
