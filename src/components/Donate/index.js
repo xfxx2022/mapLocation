@@ -14,7 +14,7 @@ class Donate extends Component {
   render() {
     return (
       <div className="donate">
-        <Popover content={content} title="参与公益！献一份爱心！" placement="topRight">
+        <Popover content={content} title="捐助赞赏！" placement="topRight">
         {/* <div className="button"><Icon type="red-envelope" /> 打赏 <Icon type="red-envelope" /> </div> */}
           <div className="button2 button2-animate"></div>
         </Popover>
