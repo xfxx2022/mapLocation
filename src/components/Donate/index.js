@@ -37,8 +37,7 @@ const content = (
     </div>
     <br />
     <div className="text">本站完全免费，如果本站为你节约了时间</div>
-    <div className="text">可否请您
-    <a href="https://map.aidengrong.top/image/dashang.jpg" target="_blank"  rel="noopener noreferrer">打赏一份爱心</a>
+    <div className="text">可否请您打赏一份爱心</a>
     。非常感谢！</div>
   </div>
 );
