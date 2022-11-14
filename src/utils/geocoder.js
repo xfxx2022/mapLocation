@@ -15,8 +15,8 @@ function getUrl() {
   let url = localStorage.getItem(urlCacheKey)
   if (!url) {
     url = Math.random() < 0.5
-      ? 'https://api.map.baidu.com/geocoding/v3/'
-      : 'https://api.map.baidu.com/geocoder/v2/'
+      ? 'https://api.map.baidu.com/geocoder/v2/'
+      : 'https://api.map.baidu.com/geocoding/v3/'
     localStorage.setItem(urlCacheKey, url)
   }
   return url
