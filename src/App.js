@@ -223,6 +223,8 @@ class App extends Component {
             }
           </Content>
           <Footer className="footer">
+            <div className="footer-link">
+            </div>
             <p>Based on <a href="https://developers.google.com/maps/documentation/geocoding/start?hl=zh-cn" target="_blank"  rel="noopener noreferrer" className="bold">Google</a> and <a href="https://lbsyun.baidu.com/index.php?title=webapi/guide/webservice-geocoding" target="_blank"  rel="noopener noreferrer" className="bold" >Baidu</a> Geocoder API</p>
             <p>Developed by <a href="mailto:sjfkai@163.com" target="_top" className="bold">sjfkai@163.com</a></p>
             {/* <p>Hosted by <a href="https://pages.coding.me" className="bold">Coding Pages</a></p> */}
