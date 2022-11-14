@@ -91,7 +91,7 @@ class LocationInput extends Component {
                         </Popover>
                       </div>
                       <div className="radio" >
-                        <Radio value="google（未开放）">
+                        <Radio value="google">
                           Google
                         </Radio>
                         <Popover title="Google地址要求" content={googleTip}>
@@ -113,7 +113,7 @@ class LocationInput extends Component {
                     {getFieldDecorator('apiKey', {initialValue: ''})(
                         <Input placeholder="请输入您的 Google API_KEY" />
                     )}
-                    <a href="https://wpa.qq.com/msgrd?v=3&uin=1255104520&site=qq&menu=yes" target="_blank"  rel="noopener noreferrer">如何申请？</a>
+                    <a href="https://github.com/sjfkai/mapLocation/blob/master/docs/FAQ.md#%E5%A6%82%E4%BD%95%E7%94%B3%E8%AF%B7google-api_key" target="_blank"  rel="noopener noreferrer">如何申请？</a>
                   </FormItem>
                 </Col>
               }
