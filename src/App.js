@@ -224,9 +224,11 @@ class App extends Component {
           </Content>
           <Footer className="footer">
             <div className="footer-link">
+              <a href="https://blog.aidengrong.top" target="_blank"  rel="noopener noreferrer">番茄酱blog</a>
+              <a href="https://music.aidengrong.top" target="_blank"  rel="noopener noreferrer">番茄酱Music</a>
+              <a href="https://pan.aidengrong.top" target="_blank"  rel="noopener noreferrer">番茄酱的网盘</a>
             </div>
-            <p>Based on <a href="https://developers.google.com/maps/documentation/geocoding/start?hl=zh-cn" target="_blank"  rel="noopener noreferrer" className="bold">Google</a> and <a href="https://lbsyun.baidu.com/index.php?title=webapi/guide/webservice-geocoding" target="_blank"  rel="noopener noreferrer" className="bold" >Baidu</a> Geocoder API</p>
-            <p>Developed by <a href="mailto:sjfkai@163.com" target="_top" className="bold">sjfkai@163.com</a></p>
+            <p>Developed by <a href="mailto:aidengrong@gmail.com" target="_top" className="bold">aidengrong@gmail.com</a></p>
             {/* <p>Hosted by <a href="https://pages.coding.me" className="bold">Coding Pages</a></p> */}
           </Footer>
         </Layout>
