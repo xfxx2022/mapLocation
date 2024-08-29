@@ -166,7 +166,7 @@ class App extends Component {
             </div>
 
             <div className="header-link">
-              <a href="https://blog.aidengrong.top" target="_blank" rel="noopener noreferrer">
+              <a href="https://blog.1314151.xyz" target="_blank" rel="noopener noreferrer">
                 <Icon type="link" /> 番茄酱的blog
               </a>
             </div>
@@ -224,9 +224,9 @@ class App extends Component {
           </Content>
           <Footer className="footer">
             <div className="footer-link">
-              <a href="https://blog.aidengrong.top" target="_blank"  rel="noopener noreferrer">番茄酱的blog</a>
-              <a href="https://music.aidengrong.top" target="_blank"  rel="noopener noreferrer">番茄酱的Music</a>
-              <a href="https://pan.aidengrong.top" target="_blank"  rel="noopener noreferrer">番茄酱的网盘</a>
+              <a href="https://blog.1314151.xyz" target="_blank"  rel="noopener noreferrer">番茄酱的blog</a>
+              <a href="https://music.1314151.xyz" target="_blank"  rel="noopener noreferrer">番茄酱的Music</a>
+              <a href="https://pan.1314151.xyz" target="_blank"  rel="noopener noreferrer">番茄酱的网盘</a>
             </div>
             <p>Developed by <a href="mailto:aidengrong@gmail.com" target="_top" className="bold">aidengrong@gmail.com</a></p>
             {/* <p>Hosted by <a href="https://pages.coding.me" className="bold">Coding Pages</a></p> */}
