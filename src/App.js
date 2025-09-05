@@ -224,7 +224,7 @@ class App extends Component {
           </Content>
           <Footer className="footer">
             <div className="footer-link">
-              <a href="https://blog.1314151.xyz" target="_blank"  rel="noopener noreferrer">番茄酱的blog</a>
+              <p><a href="https://blog.1314151.xyz" target="_blank"  rel="noopener noreferrer">番茄酱的blog</a></p>
             </div>
             <p>Developed by <a href="mailto:aidengrong@gmail.com" target="_top" className="bold">aidengrong@gmail.com</a></p>
             {/* <p>Hosted by <a href="https://pages.coding.me" className="bold">Coding Pages</a></p> */}
