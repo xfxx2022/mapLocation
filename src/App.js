@@ -228,7 +228,7 @@ class App extends Component {
              <a href="https://web.1314151.xyz" target="_blank"  rel="noopener noreferrer">番茄酱的导航</a>
              <a href="https://wallpaper.1314151.xyz" target="_blank"  rel="noopener noreferrer">番茄酱的壁纸</a>
             </div>
-            <p>Developed by <a href="mailto:admin@1314151.xyz" target="_top" className="bold">aidengrong@gmail.com</a></p>
+            <p>Developed by <a href="mailto:admin@1314151.xyz" target="_top" className="bold">admin@1314151.xyz</a></p>
             {/* <p>Hosted by <a href="https://pages.coding.me" className="bold">Coding Pages</a></p> */}
           </Footer>
         </Layout>
