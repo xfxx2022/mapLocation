@@ -16,6 +16,6 @@ script:
 notifications:
   email:
     recipients:
-      - aidengrong@gmail.com
+      - admin@1314151.xyz
     on_success: never
     on_failure: always
